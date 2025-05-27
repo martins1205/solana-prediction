@@ -1,0 +1,10 @@
+
+streamlit==1.45.1
+yfinance==0.2.61
+lightgbm
+pandas
+numpy
+matplotlib
+scikit-learn
+joblib
+plotly
