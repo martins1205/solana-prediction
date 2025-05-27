@@ -25,7 +25,7 @@ pip install -r requirements.txt
 - `lightgbm_model.joblib`: Trained LightGBM model for predictions.
 - `standard_scaler.joblib`: StandardScaler object for feature scaling.
 - `feature_names.joblib`: List of features used for predictions.
-- `solusd_dataset.csv`: Historical price data used for analysis and training.
+- `solusd_dataset.csv`: Historical price data used for analysis and training. https://www.kaggle.com/datasets/itsmecevi/solusd-daily-ticker-price-weekly-update
 
 ### Prediction Pipeline
 1. Fetch real-time or historical Solana price data.
