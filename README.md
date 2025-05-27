@@ -34,7 +34,8 @@ pip install -r requirements.txt
 4. Display the prediction and visualization in the Streamlit app.
 
 ## Running the App
-Run the Streamlit app using the following command:
+Run the Streamlit app using the following command:![Screenshot 2025-05-27 171250](https://github.com/user-attachments/assets/5556b624-85dc-4d09-b313-9308a16ab3a4)
+
 ```bash
 streamlit run app.py
 ```
@@ -44,3 +45,4 @@ This project is for educational purposes only and does not constitute financial 
 
 ---
 Developed with ❤️ using Streamlit and LightGBM.
+
